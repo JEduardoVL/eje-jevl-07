@@ -1,0 +1,29 @@
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#div-formulario{
+    background-color: gainsboro;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+input, select{
+    padding: 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border-color: lightgray;
+    border-style: solid;
+}
+
+#btn-enviar{
+    background-color:#800040;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
